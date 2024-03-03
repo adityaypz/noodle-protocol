@@ -17,12 +17,13 @@
         "npm",
         "publish",
         "package",
-        "registry"
+        "registry",
+        "tutorial"
     ],
     "author": {
-        "name": "Dominic Torse",
-        "email": "domtor@gmail.com",
-        "url": "https://domtor.com"
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
     },
     "license": "MIT",
     "bugs": {
