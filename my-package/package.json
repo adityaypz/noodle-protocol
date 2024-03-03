@@ -1,7 +1,7 @@
 {
     "name": "@adityaypz/noodle-project",
     "version": "1.0.3",
-    "description": "📦 npm package tutorial",
+    "description": "📦 npm tutorial",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -20,9 +20,9 @@
         "registry"
     ],
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "Dominic Torse",
+        "email": "domtor@gmail.com",
+        "url": "https://domtor.com"
     },
     "license": "MIT",
     "bugs": {
